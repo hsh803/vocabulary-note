@@ -15,7 +15,7 @@
             <td><%= row.word %></td>
             <td><%= row.definition %></td>
             <td><%= row.example %></td>
-            <td>
+            <td class="option">
               <a href="/">Add</a>
               <a href="/note/edit/<%= row.word %>">Edit</a>
               <a onclick="return deleteWord()" href="/note/delete/<%= row.word %>">Delete</a>
