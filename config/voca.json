@@ -1,6 +1,6 @@
 {
     "host": "localhost",
-    "user": "root",
-    "password": "mypassword",
+    "user": "project",
+    "password": "pass",
     "database": "voca"
 }
