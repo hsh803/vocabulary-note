@@ -3,6 +3,7 @@
 1. Programming languages: HTML, CSS, Javascript, Node.js, Express
 2. Tools: Visual Design Code
 3. Description: This application is programmed to create, read, update, delete the data from the database(MySQL) connected to web server.
+In the app, you can create your own vocabulary note by adding editing, deleting words. 
 
 ### Conditions to run the application
 
